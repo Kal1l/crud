@@ -1,2 +1,3 @@
 
-PROJETO DO CURSO DO PROGRAMADOR WEB SENAC, UTILIZANDO DE PHP E BOOTSTRAP, UM SITE DE REGISTRO ONDE É POSSÍVEL ADICIONAR, EDITAR, DELETAR E VISUALIZAR OS CLIENTES CADASTRADOS, FEITO BASICAMENTE COM PHP, HTML E CSS.
+Projeto do curso Programados Web Senac utilizando de HTML e Boostrap.
+Um site de registro onde é possível: Adicionar, editar, deletar e visualizar os clientes cadastrados. Feito basicamente com PHP, HTML e CSS.
